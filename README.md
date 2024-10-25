@@ -1,2 +1,2 @@
 # ECommerce-Sales-Dashboard-BA-
-This is ECmmerce Sales Dashboard 
+This is Mini Project of ECmmerce Sales Dashboard in Business Analytics. 
